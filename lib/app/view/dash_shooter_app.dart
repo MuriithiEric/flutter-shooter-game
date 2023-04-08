@@ -11,7 +11,7 @@ class DashShooterApp extends StatelessWidget {
       title: 'Dash Shooter',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primaryColor: const Color(0xFF425084),
+        primaryColor: const Color(0xFF425080),
         appBarTheme: const AppBarTheme(color: Color(0xFF425084)),
         colorScheme: ColorScheme.fromSwatch(
           accentColor: const Color(0xFF425084),
