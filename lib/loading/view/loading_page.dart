@@ -32,7 +32,7 @@ class _LoadingPageState extends State<LoadingPage> {
               'Dash Shooter',
               style: primaryTextTheme.headlineMedium!.copyWith(
                 color: const Color(0xFF425083),
-                fontWeight: FontWeight.w900,
+                fontWeight: FontWeight.w800,
               ),
             ),
             const SizedBox(height: 20),
