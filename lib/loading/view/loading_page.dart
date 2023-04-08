@@ -12,7 +12,7 @@ class _LoadingPageState extends State<LoadingPage> {
   @override
   void initState() {
     super.initState();
-    Future<void>.delayed(const Duration(milliseconds: 1500), () {
+    Future<void>.delayed(const Duration(milliseconds: 1000), () {
       if (!mounted) {
         return;
       }
