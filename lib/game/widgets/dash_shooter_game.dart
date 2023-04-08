@@ -22,7 +22,7 @@ class DashShooterGame extends FlameGame
     addAll([
       BackgroundComponent(),
       scoreText = TextComponent(
-        position: Vector2(size.x - 10, 50),
+        position: Vector2(size.x - 10, 49),
         anchor: Anchor.topRight,
         textRenderer: TextPaint(
           style: GoogleFonts.poppins(
