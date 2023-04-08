@@ -27,7 +27,7 @@ class DashShooterGame extends FlameGame
         textRenderer: TextPaint(
           style: GoogleFonts.poppins(
             color: Colors.white,
-            fontSize: 30,
+            fontSize: 29,
           ),
         ),
       ),
